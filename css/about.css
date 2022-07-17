@@ -1,0 +1,382 @@
+.container2{
+    background-color: #59ab6e;
+}
+.abouthero{
+    margin-left: 100%;
+    width: 400px;
+}
+.h1about{
+    color: white;
+}
+.pp5{
+    color: white;
+}
+.mt{
+    margin-top: 15%;
+}
+.sec4{
+    background-color: #ffffff;
+    height: 450px;
+    width: 100%;
+}
+.greendiv{
+    width: 870px;
+    font-size: 18px;
+    margin-left: 27%;
+}
+.a5{text-decoration: none;
+    margin-left: 300px;
+    color: rgba(0, 128, 0, 0.854);
+    font-size: 55px;
+ }
+ .a2:hover{
+    color: rgba(0, 128, 0, 0.854);
+ }
+ .a1{
+    margin-left: 300px;
+    font-size: 17px;
+    color: #212934;
+ }
+
+ .a2{
+    margin-left: 70px;
+    font-size: 17px;
+    color: #212934;
+ }
+ .a3{
+    margin-left: 70px;
+    font-size: 17px;
+    color: #212934;
+ }
+ .a4{
+    margin-left: 70px;
+    font-size: 17px;
+    color: #212934;
+ }
+
+ .a1:hover{
+    color: rgba(0, 128, 0, 0.721);
+ }
+
+ .a2:hover{
+    color: rgba(0, 128, 0, 0.721);
+ }
+
+ .a3:hover{
+    color: rgba(0, 128, 0, 0.721);
+ }
+ .a4:hover{
+    color: rgba(0, 128, 0, 0.721);
+ }
+ .a5:hover{
+    color: rgba(0, 128, 0, 0.721);
+ }
+
+ .img1{
+    margin-left: 600%;
+    height:30px;
+    width: 30px;
+ }
+ .img2{
+    margin-left: 620%;
+    height: 30px;
+    width: 30px;
+ }
+ .img3{
+    margin-left: 640%;
+    height: 30px;
+    width: 30px;
+ }
+.plorem{
+    text-align: center;
+    color: black;
+}
+.h1ours{
+    text-align: center;
+    color: silver;
+}
+.divafto{
+    margin-left: 13%;
+    height: 200px;
+    width: 250px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+.divafto:hover{
+    background-color: #59ab6ec2;
+}
+.divslak{
+    margin-left: 1%;
+    height: 200px;
+    width: 250px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+.divslak:hover{
+    background-color: #59ab6ec2;
+}
+.divtokos{
+    margin-left: 1%;
+    height: 200px;
+    width: 250px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+.divtokos:hover{
+    background-color: #59ab6ec2;
+}
+.divmard{
+    margin-left: 1%;
+    height: 200px;
+    width: 250px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+.divmard:hover{
+    background-color: #59ab6ec2;
+}
+.imgcar{
+    margin-left: 25%;
+    margin-top: 18%;
+    height: 120px;
+    width: 120px;
+}
+.imgslak{
+    margin-left: 30%;
+    margin-top: 22%;
+    height: 80px;
+    width: 80px;
+}
+.imgpracent{
+    margin-left: 37%;
+    margin-top: 30%;
+    height: 60px;
+    width: 60px;
+}
+.imgmans{
+    margin-left: 25%;
+    margin-top: 22%;
+    height: 80px;
+    width: 80px;
+}
+.pp6{
+    margin-left: 20%;
+    margin-top: -13%;
+    font-size: 20px;
+    color: #212529;
+}
+.pp6:hover{
+    color: white;
+}
+.pp7{
+    margin-left: 20%;
+    font-size: 20px;
+    color: #212529;
+}
+.pp7:hover{
+    color: white;
+}
+.pp8{
+    margin-left: 27%;
+    font-size: 20px;
+    color: #212529;
+}
+.pp8:hover{
+    color: white;
+}
+.pp9{
+    margin-left: 20%;
+    font-size: 20px;
+    color: #212529;
+}
+.pp9:hover{
+    color: white;
+}
+.sec5{
+    background-color: #e9eef5;
+    height: 500px;
+    width: 100%;
+}
+.h1ourbrands{
+    font-size: 50px;
+    color: #dbd8d8;
+    text-align: center;
+}
+.pp10{
+    text-align: center;
+}
+.levis{
+    margin-left: 20%;
+    height: 120px;
+    width: 120px;
+}
+
+.addidas{
+   margin-left: 20%;
+    height: 120px;
+    width: 120px;
+}
+
+.nike{
+    margin-left: 20%;
+    height: 220px;
+    width: 220px;
+}
+
+.hm{
+    margin-left: 20%;
+  
+    height: 220px;
+    width: 220px;
+}
+
+.sec3{
+    background-color: #212934;
+    width: 100%;
+    height: 700px;
+}
+.h1Zayy{
+    display: inline-block;
+    margin-left: 34%;
+    color: #59ab68;
+}
+.h1pro{
+    display: inline-block;
+    margin-left: 12%;
+    color: #aeb5c5;
+}
+.h1further{
+    display: inline-block;
+    color: #aeb5c5;
+}
+.divgic{
+    display: inline-block;
+    margin-left: 34%;
+    background-color: #2d343f;
+    height: 1px;
+    width: 420px;
+}
+.divgic1{
+    display: inline-block;
+    margin-left: 12%;
+    background-color: #2d343f;
+    height: 1px;
+    width: 420px;
+}
+.divgic2{
+    display: inline-block;
+    background-color: #2d343f;
+    height: 1px;
+    width: 420px;
+}
+.map1{
+    height: 20px;
+    width: 20px;
+}
+.pp1{
+    margin-left: 33%;
+    font-size: 18px;
+    color: #cfd6e1;
+}
+.phone1{
+    height: 20px;
+    width: 20px;
+}
+.pp2{
+    margin-left: 33%;
+    font-size: 18px;
+    color: #cfd6e1;
+}
+.pp2:hover{
+    color: rgba(0, 128, 0, 0.822);
+}
+.pp3{
+    margin-left: 13%;
+    font-size: 18px;
+    color: #cfd6e1;
+}
+.pp3:hover{
+    color: rgba(0, 128, 0, 0.822);
+}
+
+.pp4{
+    font-size: 18px;
+    color: #cfd6e1;
+}
+.pp4:hover{
+    color: rgba(0, 128, 0, 0.822);
+}
+.divgic11{
+    margin-left: 10%;
+    height: 1px;
+    background-color: #2d343f;
+    width: 1380px;
+}
+.facebook{
+    height: 40px;
+    width: 40px;
+}
+.divface{
+    background-color: #212934;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #212934e3;
+}
+.divface:hover{
+    transition: .5s;
+    background-color: white;
+}
+.col-fi{
+    margin-left: 10%;
+    display: flex;
+}
+.divinsta{
+    background-color: #212934be;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #212934be;
+}
+.divinsta:hover{
+    transition: .5s;
+    background-color: white;
+}
+.insta{
+    margin-left: 10%;
+    height: 40px;
+    width: 40px;
+}
+
+.divtwitter{
+    background-color: #212934be;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #212934be;
+}
+.twitter{
+    margin-left: 10%;
+    height: 40px;
+    width: 40px;
+}
+.divtwitter:hover{
+    transition: .5s;
+    background-color: white;
+}
+.input10{
+    border: 1px solid #e8e8e8;
+    border-color: #2d343f !important;
+    background-color: #212934be;
+}
+.input10:hover{
+    color: white;
+    background-color: #212934be;
+}
+.buttonsub{
+    font-size: 18px;
+    margin-left: -1px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    color: rgba(255, 255, 255, 0.555);
+    background-color: #59ab6e !important;
+    border-color: #56ae6c !important;
+    height: 40px;
+    width: 150px;
+}
